@@ -1,0 +1,5 @@
+applications:
+- services:
+  - twillio
+  name: gmitphone
+  command: node app.js
